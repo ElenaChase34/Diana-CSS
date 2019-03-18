@@ -1,0 +1,33 @@
+.divbody{/*codage général de la fiche de rp*/
+  width:500px;
+  border-left:solid 2px black;
+  border-right:solid 2px black;
+  font-family:'Times New Roman';
+  Font-size:14px;
+  text-align:justify;
+  padding-left:10px;
+  padding-right:10px;
+  color:;
+}
+.imgrp{/*codage de l'image du rp*/
+  width:500px;
+  filter:grayscale(100%);
+  -webkit-filter:grayscale(100%);
+}
+.titrerp{/*codage du titre du rp penser à ajouter la police voulue dans le codage*/
+  font-family:cursive;
+  font-size:24px;
+  text-align:center;
+  color:;
+}
+.hr{/*barre de séparation*/
+  background-color:black;
+  height:2px;
+  width:500px;
+}
+.ft{/*codage du feat*/
+  font-family:;
+  font-size:12px;
+  text-align:right;
+  color:;
+}
